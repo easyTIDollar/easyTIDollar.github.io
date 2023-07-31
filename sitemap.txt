@@ -1,2 +1,5 @@
+http://example.com/2023/07/31/nih/
 http://example.com/2023/07/31/hello-world/
 http://example.com/
+http://example.com/tags/%E5%88%9D%E4%BD%93%E9%AA%8C/
+http://example.com/categories/%E8%87%AA%E5%AD%A6/
